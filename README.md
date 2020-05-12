@@ -1,4 +1,5 @@
-# Whatsapp-Automation- This is the code for
+# Whatsapp-Automation
+This is the code for
  WhatsApp Automation using python. 
 This will help you to send a message to a 
 specified user and the total count of the
